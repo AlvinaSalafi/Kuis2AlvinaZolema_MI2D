@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Todo Retrofit</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="array_country">
+        <item>Camelia Yoma Salafi</item>
+        <item>Alvina Zolema Salafi</item>
+        <item>Moch Satrio BPB Salafi</item>
+        <item>Fairuz Kencono ACDM Salafi</item>
+        <item>Adeeva Aliem Swihoo Salafi</item>
+        <item>Moersiran</item>
+        <item>Moersinah</item>
+        <item>Moersitah</item>
+        <item>Indonesia</item>
+        <item>Merdeka</item>
+        <item>Jerman</item>
+        <item>Kauman</item>
+        <item>Italia</item>
+        <item>Sawojajar</item>
+    </string-array>
+</resources>
